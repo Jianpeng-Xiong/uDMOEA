@@ -10,7 +10,7 @@ If you have any questions about this article or related fields, please feel free
 Environment
 ---
 The operating environment is based on [Matlab2018b](https://www.mathworks.com/) at least. 
-The platform we are using is [PlatEMO](https://github.com/BIMK/PlatEMO). __`You can directly use this to run the code.`__😃
+The platform we are using is [PlatEMO](https://github.com/BIMK/PlatEMO). __You can directly use this to run the code.__😃
 
 Acknowledgements
 ---
