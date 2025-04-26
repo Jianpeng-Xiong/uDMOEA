@@ -29,7 +29,8 @@ Including but not limited to:
 Citation
 -----
 If you find our [work](https://dl.acm.org/doi/10.1145/3638530.3654276) useful in your research, please consider citing:
-```@inproceedings{10.1145/3638530.3654276,
+```
+@inproceedings{Luo_Xiong2024,
 author = {Luo, Zhongtian and Xiong, Jianpeng and Peng, Hu and Zhan, Gaosheng and Zhang, Qingfu and Wang, Hui and Zhou, Xinyu and Li, Wei and Huang, Ying},
 title = {A Micro Dynamic Multi-objective Evolutionary Algorithm for Small-scale Smart Greenhouse with Low-power Microprocessor},
 year = {2024},
