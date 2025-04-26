@@ -1,19 +1,19 @@
 A Micro Dynamic Multi-objective Evolutionary Algorithm for Small-scale Smart Greenhouse with Low-power Microprocessor
 ======
-Introduction
+🏆Introduction
 -------
 Welcome to my GitHub homepage, where my papers and code are available. 
 This is my first article published as first author/corresponding author, and also my first conference paper. Completed together with roommate Luo and classmate Zhan. 
 This is a great project that can achieve the intelligent operation of small greenhouses.
 If you have any questions about this article or related fields, please feel free to communicate with me at any time. QQ email:1972026766@qq.com. 😇
 
-Environment
+🥳Environment
 ---
 The operating environment is based on [Matlab2018b](https://www.mathworks.com/) at least. 
 The platform we are using is [PlatEMO](https://github.com/BIMK/PlatEMO). 
 __You can directly use this to run the code.__ 😃
 
-Acknowledgements
+🦁Acknowledgements
 ---
 The journey has been very difficult, and I would like to thank my supervisor, [Hu Peng](https://whuph.github.io/index.html), and many researchers, especially the open-source research group.
 Including but not limited to:
@@ -26,7 +26,7 @@ Including but not limited to:
  
  __Useful links__*  [Paper](https://dl.acm.org/doi/10.1145/3638530.3654276), [PlatEMO](https://github.com/BIMK/PlatEMO), [GECCO2024](https://gecco-2024.sigevo.org/), [MATLAB](https://www.mathworks.com/products/matlab.html), [QS ranking](https://www.qschina.cn/), [CS ranking](https://csrankings.org/)
  
-Citation
+🎊Citation
 -----
 If you find our [work](https://dl.acm.org/doi/10.1145/3638530.3654276) useful in your research, please consider citing:
 ```
