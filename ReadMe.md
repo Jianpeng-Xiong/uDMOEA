@@ -31,17 +31,17 @@ Including but not limited to:
 If you find our [work](https://dl.acm.org/doi/10.1145/3638530.3654276) useful in your research, please consider citing:
 ```
 @inproceedings{Luo_Xiong2024,
- author = {Luo, Zhongtian and Xiong, Jianpeng and Peng, Hu and Zhan, Gaosheng and Zhang, Qingfu and Wang, Hui and Zhou, Xinyu and Li, Wei and Huang, Ying},
- title = {A Micro Dynamic Multi-objective Evolutionary Algorithm for Small-scale Smart Greenhouse with Low-power Microprocessor},
- year = {2024},
- isbn = {9798400704956},
- publisher = {Association for Computing Machinery},
- address = {New York, NY, USA},
- url = {https://doi.org/10.1145/3638530.3654276},
- doi = {10.1145/3638530.3654276},
- booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference Companion},
- pages = {687–690},
- numpages = {4},
- location = {Melbourne, VIC, Australia},
- series = {GECCO '24 Companion}
+  author = {Luo, Zhongtian and Xiong, Jianpeng and Peng, Hu and Zhan, Gaosheng and Zhang, Qingfu and Wang, Hui and Zhou, Xinyu and Li, Wei and Huang, Ying},
+  title = {A Micro Dynamic Multi-objective Evolutionary Algorithm for Small-scale Smart Greenhouse with Low-power Microprocessor},
+  year = {2024},
+  isbn = {9798400704956},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3638530.3654276},
+  doi = {10.1145/3638530.3654276},
+  booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference Companion},
+  pages = {687–690},
+  numpages = {4},
+  location = {Melbourne, VIC, Australia},
+  series = {GECCO '24 Companion}
 }
