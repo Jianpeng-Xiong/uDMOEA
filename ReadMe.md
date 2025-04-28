@@ -5,7 +5,7 @@ A Micro Dynamic Multi-objective Evolutionary Algorithm for Small-scale Smart Gre
 Welcome to my GitHub homepage, where my papers and code are available. 
 This is my first article published as first author/corresponding author, and also my first conference paper. Completed together with roommate Luo and classmate Zhan. 
 This is a great project that can achieve the intelligent operation of small greenhouses.
-If you have any questions about this article or related fields, please feel free to communicate with me at any time. QQ email:1972026766@qq.com. 😇
+If you have any questions about this article or related fields, please feel free to communicate with me at any time. QQ-email📮:1972026766@qq.com. 😇
 
 🥳Environment
 ---
